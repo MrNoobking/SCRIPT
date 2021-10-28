@@ -42,6 +42,8 @@ git clone https://github.com/MrNoobking/-SCRIPT-
                 ~=>                {pip install colorama
                 ~=>                {pip install requests
                 ~=>                {pip install urllib3
+                ~=>                {IF ANYTHING ERROR PLEASE CONTACT ME!
+                
 
 
 
