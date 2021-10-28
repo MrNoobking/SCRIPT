@@ -5,6 +5,7 @@
 Usage: python3 multi.py
 
 target.txt - change your target 
+worldlist.txt - every admin website login list here 
 
 
 git clone https://github.com/MrNoobking/-SCRIPT-
