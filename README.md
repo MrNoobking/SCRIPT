@@ -33,3 +33,4 @@ git clone https://github.com/MrNoobking/-SCRIPT-
                                    [-INFORMATION GATHERING
                                    [-PORT SCAN
                                    [-DEFACEMENT
+                                   [-ADMIN FINDER
