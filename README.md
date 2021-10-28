@@ -4,6 +4,8 @@
 [----------------------]
 Usage: python3 multi.py
 
+target.txt - change your target 
+
 
 git clone https://github.com/MrNoobking/-SCRIPT-
 
