@@ -35,3 +35,15 @@ git clone https://github.com/MrNoobking/-SCRIPT-
                                    [-PORT SCAN
                                    [-DEFACEMENT
                                    [-ADMIN FINDER
+
+
+
+[installation]
+{git clone https://github.com/MrNoobking/-SCRIPT-
+{cd -SCRIPT-
+{chmod +x *
+{pip install colorama
+{pip install requests
+{pip install urllib3
+
+
