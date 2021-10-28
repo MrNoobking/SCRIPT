@@ -2,6 +2,7 @@
 [----------------------]
 [_script by mrnoobking_]
 [----------------------]
+Usage: python3 multi.py
 
 
 git clone https://github.com/MrNoobking/-SCRIPT-
