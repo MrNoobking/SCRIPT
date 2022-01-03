@@ -44,6 +44,4 @@ git clone https://github.com/MrNoobking/-SCRIPT-
                 ~=>                {pip install urllib3
                 ~=>                {IF ANYTHING ERROR PLEASE CONTACT ME!
                 
-
-
-
+<img src="https://i.somethingawful.com/u/garbageday/2015/Comedy_Goldmine/Skeleton_GIFs/Hogge_Wild_36.gif" width="300px">
